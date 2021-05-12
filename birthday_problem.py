@@ -1,5 +1,5 @@
 '''
-let's figure out given a room of k people, what's the probability at least 2 people will have the same birthday
+let's figure out what's the probability at least 2 people will have the same birthday given a room of k people
 '''
 
 # load some libs
